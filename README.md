@@ -3,22 +3,22 @@ This project implements a classic version of Chess with a Graphical User Interfa
 
 This project was a part of Object Oriented Analysis and Design Course.
 
-**Running the project**
+**Running the project:**
 
 The game can be run simply in NetBeans or Eclipse.
 
-**Features**
+**Features:**
 
 1. GUI build using _Java Swing_.
 2. Various _Event handlers_ are implemented.
 3. _Greedy Approach_ is used to determine if a move results for a _checkmate_ (win or loss).
 
-**Implementation**
+**Implementation:**
 
 The project consists of a Chess package which has all the java files. Code execution begins from the ChessGame class. 
 
 
-**Project Contributors**
+**Project Contributors:**
 
 1. Vinay Mundada (vinaymundada27@gmaio.com)
 2. Shreyash Karode (shreyashkarode140@gmail.com)
