@@ -1,5 +1,5 @@
 # CHESSusingOOP
-This project was a part of Object Oriented Analysis & Design course(IT306) in IV<sup>th</sup> Semester, B.Tech program in the Department of Information Technology at National Institue of Technology Karnataka, Surathkal in the academic year 2016.
+This project was a part of **Object Oriented Analysis & Design course(IT306)** in IV<sup>th</sup> Semester, B.Tech program in the Department of Information Technology at National Institue of Technology Karnataka, Surathkal in the academic year 2016.
 
 This project implements a classic version of Chess with a Graphical User Interface. It is a pure implementation of the Object Oriented Programming (OOP) paradigms and concepts. The Chess game follows the basic rules of chess, and all the chess pieces only move according to valid moves for that piece. Our implementation of Chess is for two players (Artificial Intelligence is not included yet). It is played on an 8x8 checkered board, with a dark square in each player's lower left corner. We successfully created a GUI using inheritance and templates, as specified. Our Chess program is a great, user-friendly game for two players. It is a timed game and a player loses his right to move once he runs out of time.
 
