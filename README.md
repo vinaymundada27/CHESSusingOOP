@@ -22,5 +22,5 @@ The project consists of a Chess package which has all the java files. Code execu
 
 **Project Contributors:**
 
-1. Vinay Mundada (vinaymundada27@gmaio.com)
+1. Vinay Mundada (vinaymundada27@gmail.com)
 2. Shreyash Karode (shreyashkarode140@gmail.com)
